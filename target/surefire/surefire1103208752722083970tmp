@@ -1,0 +1,23 @@
+#surefire
+#Wed Jan 04 15:20:08 AST 2017
+testClassesDirectory=F\:\\Etude\\mandaS5\\mobile\\TestCloud\\target\\test-classes
+forkMode=once
+classPathUrl.2=C\:\\Users\\mandaR\\.m2\\repository\\javax\\javaee-web-api\\6.0\\javaee-web-api-6.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\Etude\\mandaS5\\mobile\\TestCloud\\target\\classes
+classPathUrl.0=F\:\\Etude\\mandaS5\\mobile\\TestCloud\\target\\test-classes
+reportsDirectory=F\:\\Etude\\mandaS5\\mobile\\TestCloud\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\Etude\\mandaS5\\mobile\\TestCloud\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\mandaR\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\mandaR\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
